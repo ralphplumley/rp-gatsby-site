@@ -14,7 +14,6 @@ module.exports = {
         display: `standalone`,
       },
     },
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -22,6 +21,13 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: "rp-gatsby-site",
+      },
+    },
     `gatsby-transformer-remark`,
+    `gatsby-plugin-offline`,
   ],
 }

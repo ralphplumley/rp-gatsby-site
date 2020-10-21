@@ -5,11 +5,11 @@ export default function About() {
   return (
     <Layout>
       <h3>About</h3>
-      <p>Hello, I'm a software engineer.</p>
+      <p>Hello, I'm Ralph. I live in Detroit, MI.</p>
       <br />
       <p>
         My interests include software, computers, photography, animation,
-        woodworking, amongst others.
+        woodworking, amongst other things.
       </p>
     </Layout>
   )

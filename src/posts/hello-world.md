@@ -9,5 +9,5 @@ Better late than never.
 ### Why?
 
 Like [Jeff Atwood says](https://blog.codinghorror.com/about-me/) mostly for selfish reasons.
-I believe keeping track of my progress on any projects here will hell elucidate ideas. I'll also post anything
+I believe keeping track of my progress on any projects here will help elucidate ideas. I'll also post anything
 I find interesting, or even notes to myself for later use.
