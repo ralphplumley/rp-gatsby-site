@@ -25,6 +25,8 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         bucketName: "rp-gatsby-site",
+        protocol: "https",
+        hostname: "rp-gatsby-site.s3-website-us-east-1.amazonaws.com",
       },
     },
     `gatsby-transformer-remark`,
