@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 import { css } from "@emotion/core"
 
 import Layout from "../components/layout"
-import Counter from "../components/counter"
 
 export default function Home({ data }) {
   return (
@@ -28,7 +27,6 @@ export default function Home({ data }) {
           </div>
         ))}
       </div>
-      <Counter></Counter>
     </Layout>
   )
 }
