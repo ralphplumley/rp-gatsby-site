@@ -3,6 +3,18 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+# Nov. 16 ~ Nov. 22 | Week 47
+
+## Tinkered & Learned
+
+## Goals for next week
+
+- Standard VIM command of the week
+- Complete CI/CD for this blog
+- Get through two or three Cantrill AWS course sections.
+
+---
+
 # Nov. 9 ~ Nov. 15 | Week 46
 
 Vim command of the week: `/` and general search. `n` and `N` to find next and previous.
