@@ -3,3 +3,4 @@
 - Use secrets manager for constants / secrets
 - Add CI/CD
 - First pass at styling
+- Ordering of blog posts
