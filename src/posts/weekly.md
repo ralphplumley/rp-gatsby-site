@@ -3,9 +3,17 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+# Nov. 23 ~ Nov. 29 | Week 48
+
+Vim command of the week: TBD
+
+---
+
 # Nov. 16 ~ Nov. 22 | Week 47
 
 ## Tinkered & Learned
+
+- More CDK
 
 ## Goals for next week
 
