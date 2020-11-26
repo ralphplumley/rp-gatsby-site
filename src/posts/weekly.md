@@ -7,6 +7,8 @@ date: "2020-11-12"
 
 Vim command of the week: TBD
 
+- Even more CDK work. Specifically with AWS Glue.
+
 ---
 
 # Nov. 16 ~ Nov. 22 | Week 47

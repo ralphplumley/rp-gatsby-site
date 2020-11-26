@@ -9,7 +9,7 @@ export default function About() {
       <br />
       <p>
         My interests include software, computers, photography, animation,
-        woodworking, amongst other things.
+        and woodworking, amongst other things.
       </p>
     </Layout>
   )
