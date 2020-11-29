@@ -13,7 +13,7 @@ I'm still living in Detroit. Elizabeth and I are expecting around Christmas time
 
 ## Career
 
-I'm transitioned to devops and cloud engineering roles. I'll take a couple months off for Parternity, but looking to start a new role around March '21, hopefully an Infrastructure role working with AWS.
+I've transitioned to devops and cloud engineering roles. I'll take a couple months off for Parternity, but looking to start a new role around March '21, hopefully an Infrastructure role working with AWS.
 
 ## Projects
 

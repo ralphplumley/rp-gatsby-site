@@ -5,9 +5,15 @@ date: "2020-11-12"
 
 # Nov. 23 ~ Nov. 29 | Week 48
 
-Vim command of the week: TBD
+Vim command of the week:
 
-- Even more CDK work. Specifically with AWS Glue.
+- `:%s/foo/bar/g` - replace foo with bar globally
+- `<c-x> and <c-a>` - jump to the next number, and decrement or increment
+- `180<C-x>` - while jumping to the next number, replace it with 180
+
+## Tinkered & Learned
+
+Even more CDK work. Specifically with AWS Glue.
 
 ---
 
