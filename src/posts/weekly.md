@@ -3,6 +3,14 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+# Nov. 30 ~ Dec. 6 | Week 49
+
+Vim command of the week:
+
+- `{` - jump paragraph to the left
+- `}` - jump paragraph to the right (how did I miss these early on?!)
+
+
 # Nov. 23 ~ Nov. 29 | Week 48
 
 Vim command of the week:
@@ -14,6 +22,12 @@ Vim command of the week:
 ## Tinkered & Learned
 
 Even more CDK work. Specifically with AWS Glue.
+
+## Goals for next week
+
+- Standard VIM command of the week
+- Complete CI/CD for this blog
+- Get through two or three Cantrill AWS course sections.
 
 ---
 
