@@ -3,6 +3,11 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+# Dec. 7 ~ Dec. 13 | Week 50
+
+Vim command of the week:
+
+
 # Nov. 30 ~ Dec. 6 | Week 49
 
 Vim command of the week:
@@ -10,6 +15,9 @@ Vim command of the week:
 - `{` - jump paragraph to the left
 - `}` - jump paragraph to the right (how did I miss these early on?!)
 
+## Tinkered & Learned
+
+- Worked a lot making an ETL pipeline for Rocket Loans. Want to make the [Cloud Challenege one too](https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl)
 
 # Nov. 23 ~ Nov. 29 | Week 48
 
