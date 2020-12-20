@@ -9,9 +9,6 @@ module.exports = {
         name: `Ralph Plumley`,
         short_name: `Ralph Plumley`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
       },
     },
     {
@@ -31,5 +28,6 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-postcss`,
   ],
 }
