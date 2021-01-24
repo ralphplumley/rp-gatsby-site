@@ -9,11 +9,13 @@ date: "2020-11-25"
 
 ## Life
 
-I'm still living in Detroit. Elizabeth and I are expecting around Christmas time :)
+I'm still living in Detroit. Elizabeth and I ~~are expecting around Christmas time :) ~~ just gave birth to a baby girl on December 30th, 2020.
 
 ## Career
 
-I've transitioned to devops and cloud engineering roles. I'll take a couple months off for Parternity, but looking to start a new role around March '21, hopefully an Infrastructure role working with AWS.
+I'm coding, studying, every day. I have several interviews lined up with big tech companies. I'll need to keep grinding Leetcode. I'll take a couple months off for Parternity, but looking to start a new role around March '21.
+
+I'm also starting taking core CS courses at the local college. I'm completing CS2 and Data Structures this semester.
 
 ## Projects
 
