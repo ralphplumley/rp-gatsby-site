@@ -3,17 +3,40 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+## Feb. 1 ~ Feb. 7 | Week 5 2021
+
+### Vim command of the week:
+
+- `g~` - swap case
+- `gu` - make lowercase
+- `gU` - make uppercase
+- `gUw` - make uppercase whole word
+- `gUU` - make uppercase entire line
+- `gUap` - make uppercase entire paragraph
+- `gcap` - comment out paragraph
+
+### Goals for next week
+
+- Get through Week 4 of Skiena Algo Book / Class
+- 21 different LeetCode problems
+- Start 1 practice interview weekly (pramp, colleagues, friends)
+
+---
+
 ## Jan. 25 ~ Jan. 31 | Week 4 2021
 
 ### Vim command of the week:
+
 - `dap` - delete entire paragraph
 
 ### Goals for next week
+
 - Get through Week 3 of Skiena Algo Book / Class
 - 21 different LeetCode problems
 - Get through 1 o'reilly book on fullstack webdev with Go (TBD)
 
 ---
+
 We had our first baby. December was baby prep 👶
 
 ---
