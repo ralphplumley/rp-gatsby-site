@@ -3,9 +3,25 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+## Feb. 22 ~ Feb. 28 | Week 8 2021
+
+### Vim commands of the week:
+
+- `daw` - delete whole word (without rogue character left)
+- `gg=G` - auto indent whole file
+
+### Goals for next week
+
+- Get through Week 5 of Skiena Algo Book / Class (and keep implementing Algos in javascript)
+- 21 different LeetCode problems (Grokking Interviews, Leetcode)
+- Take notes on first 3 sections of [Advanced Javascript concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+- Maybe implement Tailwind to this site
+
+---
+
 ## Feb. 1 ~ Feb. 7 | Week 5 2021
 
-### Vim command of the week:
+### Vim commands of the week:
 
 - `g~` - swap case
 - `gu` - make lowercase
