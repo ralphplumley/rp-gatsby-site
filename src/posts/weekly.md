@@ -3,6 +3,24 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+## Mar. 1 ~ Mar. 7 | Week 9 2021
+
+### Vim commands of the week:
+
+- `/pattern<CR>` - Scan document for next match
+- `?pattern<CR>` - Scan document for previous match
+- `:s/target/replacement` - Search and replacement. The cursor needs to be on the line. `&` for repeat `u` for reverse
+- `:%s/foo/bar/g` - replace foo with bar thourough out the file
+
+### Goals for next week
+
+- 21 different LeetCode problems (Grokking Interviews, Leetcode)
+- Take notes on first 3 sections of [Advanced Javascript concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+- Begin K&R C book (1 chapter?)
+- Start Kent Dodds Testing course
+
+---
+
 ## Feb. 22 ~ Feb. 28 | Week 8 2021
 
 ### Vim commands of the week:
