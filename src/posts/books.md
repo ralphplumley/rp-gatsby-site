@@ -7,6 +7,8 @@ date: "2020-11-25"
 
 #### Tech
 
+[K&R C Book](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) - February '21
+
 [Algorithm Design Manual](https://www3.cs.stonybrook.edu/~skiena/373/videos/) - February '21
 
 #### Bookshelf

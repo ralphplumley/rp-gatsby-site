@@ -3,6 +3,21 @@ title: "Weekly Progress"
 date: "2020-11-12"
 ---
 
+## Mar. 8 ~ Mar. 14 | Week 10 2021
+
+### Vim commands of the week:
+
+- `` -
+
+### Goals for next week
+
+- 21 different LeetCode problems (Grokking Interviews, Leetcode)
+- 7 Practice interviews on Pramp / friends
+- Take notes on sections 4~6 of [Advanced Javascript concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+- K&R C book (chapter 2)
+- Nand2Tetris week 2
+- Finish Kent Dodds Testing course
+
 ## Mar. 1 ~ Mar. 7 | Week 9 2021
 
 ### Vim commands of the week:
